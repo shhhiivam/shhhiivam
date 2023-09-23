@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Langchain**
 
-- 👯 I’m looking to collaborate on [irctc-clone](https://github.com/shhhiivam/irctc-clone)
+- 👯 I’m looking to collaborate on [railway tracking system](https://github.com/shhhiivam/irctc-clone)
 
 - 💬 Ask me about **java , php , spring boot , mysql ,**
 
